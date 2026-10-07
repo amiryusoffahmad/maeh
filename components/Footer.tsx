@@ -102,8 +102,7 @@ export default function Footer() {
 
         {/* BAHAGIAN HAK CIPTA */}
         <div className="pt-8 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-500 gap-4">
-          <p>© {new Date().getFullYear()} Persatuan Kesihatan Persekitaran Malaysia (MAEH). Hak Cipta Terpelihara.</p>
-          <div className="flex gap-6">
+<p>© 2026 Persatuan Kesihatan Persekitaran Malaysia (MAEH). Hak Cipta Terpelihara.</p>          <div className="flex gap-6">
             <Link href="#" className="hover:text-slate-400 transition">
               Dasar Privasi
             </Link>
